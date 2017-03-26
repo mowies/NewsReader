@@ -4,7 +4,7 @@
     android:layout_height="wrap_content"
     android:padding="10dp"
     android:orientation="vertical"
-    tools:context="org.random_access.org.newsreader.ShowNewsgroupsActivity">
+    tools:context="com.xtracteddev.newsreader.ShowNewsgroupsActivity">
 
     <ListView android:id="@+id/show_groups_list"
         android:layout_width="fill_parent"

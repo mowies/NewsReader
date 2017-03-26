@@ -5,7 +5,7 @@
     android:layout_height="wrap_content"
     android:id="@+id/item_msg_child">
 
-    <org.random_access.newsreader.MsgHierarchyView
+    <com.xtracteddev.newsreader.MsgHierarchyView
         android:id="@+id/ic_level"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"

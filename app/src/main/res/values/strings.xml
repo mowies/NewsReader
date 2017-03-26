@@ -35,7 +35,7 @@
     <string name="email">E-Mail</string>
     <string name="email_hint">user@example.com</string>
     <string name="signature">Signature</string>
-    <string name="signature_hint"> Newsreader for Android (Alpha) http://random-access.org/newsreader/</string>
+    <string name="signature_hint"> Newsreader for Android</string>
     <string name="msg_keep">Keep messages</string>
     <string name="msg_keepload_hint">Default: 30</string>
     <string name="msg_load">Load messages</string>

@@ -3,7 +3,7 @@
     android:layout_height="match_parent"
     android:padding="10dp"
     android:orientation="vertical"
-    tools:context="org.random_access.org.newsreader.EditSubscriptionsActivity">
+    tools:context="com.xtracteddev.newsreader.EditSubscriptionsActivity">
 
     <RadioGroup
         android:id="@+id/radio_group"

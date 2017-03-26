@@ -1,7 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="org.random_access.org.newsreader.EditSubscriptionsActivity">
+    tools:context="com.xtracteddev.newsreader.EditSubscriptionsActivity">
 
     <item android:title="@string/discard"
         android:id="@+id/action_newsgroups_discard"

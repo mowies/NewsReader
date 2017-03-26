@@ -130,7 +130,7 @@
     <string name="sent_from">Am %1$s um %2$s schrieb %3$s:</string>
     <string name="send">Nachricht senden</string>
     <string name="reply">Re:</string>
-    <string name="signature_hint"> Newsreader für Android (Alpha) http://random-access.org/newsreader/</string>
+    <string name="signature_hint"> Newsreader für Android</string>
     <string name="new_message">Neue Nachricht</string>
     <string name="send_success">Nachricht gesendet.</string>
     <string name="send_error">Fehler beim Senden.</string>

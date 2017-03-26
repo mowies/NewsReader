@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sync-adapter
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:contentAuthority="org.random_access.newsreader.provider"
-    android:accountType="org.random_access.newsreader.datasync"
+    android:contentAuthority="com.xtraceddev.newsreader.provider"
+    android:accountType="com.xtracteddev.newsreader.datasync"
     android:userVisible="false"
     android:supportsUploading="false"
     android:allowParallelSyncs="false"

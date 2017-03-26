@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:padding="10dp"
         android:orientation="vertical"
-        tools:context="org.random_access.newsreader.WriteMessageActivity">
+        tools:context="com.xtracteddev.newsreader.WriteMessageActivity">
 
         <TableLayout
             android:layout_width="match_parent"
